@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: sample-project
+
+  security:
+    user:
+      name: user
+      password: 1234
+      roles : USER
